@@ -6,6 +6,7 @@ A Homebrew tap for **TAPE** — a menu-bar meeting recorder for macOS. TAPE capt
 
 ```sh
 brew tap SaranH8/tape
+brew trust SaranH8/tape
 brew install --cask tape
 ```
 
