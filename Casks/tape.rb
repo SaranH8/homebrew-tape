@@ -1,6 +1,6 @@
 cask "tape" do
-  version "1.4.1"
-  sha256 "f16f7f334c1fa2fae7452873941e66ad0b8bed83ff97a2326896e88b31e33cfe"
+  version "1.4.2"
+  sha256 "dd1edbe6c33adb2efb38f278839ed2dd548329b2b5145b9b09d7e6ca15307f93"
 
   url "https://github.com/SaranH8/homebrew-tape/releases/download/v#{version}/TAPE-v#{version}.dmg"
   name "TAPE"
